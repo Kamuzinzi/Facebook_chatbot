@@ -1,0 +1,6 @@
+nltk
+keras
+numpy
+tensorflow
+fastapi
+uvicorn
